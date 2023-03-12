@@ -1,7 +1,7 @@
 # Ruslan Karnilov
-====
+===
 ## Cayote (@Morozkus)
-====
+===
 
 About me: I have been studying independently for about six months, at the moment I am slowly and methodically looking through the necessary topics.
 
